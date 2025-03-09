@@ -1,19 +1,19 @@
   h1, h2, h3, h4, h5, h6
   {
-    font-family: "Lora", serif;
+    font-family: "Lora", serif!important;
   }
   
   p, a
   {
-    font-family: "Open Sans", sans-serif;
+    font-family: "Open Sans", sans-serif!important;
   }
   
   .custom-bg-transparent
   {
-    background: rgba( 0, 0, 0, 0.4 );
+    background: rgba( 0, 0, 0, 0.4 )!important;
   }
   
   .custom-site-font-logo
   {
-    font-family: "Pacifico", cursive;
+    font-family: "Pacifico", cursive!important;
   }
