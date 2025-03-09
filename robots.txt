@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://varnoobmike.github.io/siquijor-waters/sitemap.xml
